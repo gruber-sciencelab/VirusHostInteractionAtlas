@@ -1,0 +1,418 @@
+## Complete genomes: ssRNA viruses (taxid 10239) filtered by host 'human'
+## Columns:	"Genome"	"Accession"	"Source information"	"Number of segments"	"Genome length"	"Number of proteins"	"Genome Neighbors"	"Host"	"Date completed"	"Date updated"
+Aedes flavivirus	NC_012932	strain:Narita-21	-		11064 nt	2	1	vertebrates, invertebrates, human	07/24/2009	06/25/2012	
+Aguacate virus	-	strain:VP-175A	3		12408 nt	4	-	vertebrates, invertebrates, human	04/27/2011	05/26/2011	
+          Aguacate virus     (4185 nt)     NC_015450     proteins: 1     neighbors: 3
+          Aguacate virus     (6393 nt)     NC_015451     proteins: 1     neighbors: 4
+          Aguacate virus     (1830 nt)     NC_015452     proteins: 2     neighbors: 4
+Aino virus	-	isolate:38K	3		12135 nt	4	-	vertebrates, invertebrates, human	08/20/2012	11/06/2013	
+          Aino virus     (6966 nt)     NC_018465     proteins: 1
+          Aino virus     (834 nt)     NC_018460     proteins: 2
+          Aino virus     (4335 nt)     NC_018459     proteins: 1
+Akabane virus	-	strain:OBE-1	3		12035 nt	4	-	vertebrates, invertebrates, human	10/05/2007	12/08/2008	
+          Akabane virus     (858 nt)     NC_009896     proteins: 2     neighbors: 23
+          Akabane virus     (4309 nt)     NC_009895     proteins: 1     neighbors: 43
+          Akabane virus     (6868 nt)     NC_009894     proteins: 1     neighbors: 2
+Alkhumra hemorrhagic fever virus	NC_004355	strain:1176	-		10685 nt	1	25	vertebrates, invertebrates, human	09/29/2001	12/08/2008	
+Allpahuayo virus	-	strain:CLHP-2472	2		10396 nt	4	-	vertebrates, human	01/14/2008	12/08/2008	
+          Allpahuayo virus     (3343 nt)     NC_010253     proteins: 2     neighbors: 2
+          Allpahuayo virus     (7053 nt)     NC_010249     proteins: 2
+Amapari virus	-	strain:BeAn 70563	2		10387 nt	4	-	vertebrates, human	01/11/2008	12/08/2008	
+          Amapari virus     (7046 nt)     NC_010251     proteins: 2     neighbors: 1
+          Amapari virus     (3341 nt)     NC_010247     proteins: 2     neighbors: 1
+Andes virus	-	strain:Chile-9717869	3		12104 nt	4	-	vertebrates, human	10/10/2000	11/08/2011	
+          Andes virus     (1871 nt)     NC_003466     proteins: 2     neighbors: 11
+          Andes virus     (3671 nt)     NC_003467     proteins: 1     neighbors: 6
+          Andes virus     (6562 nt)     NC_003468     proteins: 1     neighbors: 1
+Apoi virus	NC_003676	strain:ApMAR	-		10116 nt	1	-	vertebrates, invertebrates, human	05/19/2000	07/10/2008	
+Aravan virus	NC_020808	-	-		11918 nt	5	-	vertebrates, human	03/26/2013	03/26/2013	
+Aroa virus	NC_009026	strain:Bussuquara virus; isolate:BeAn 4073	-		10815 nt	1	1	vertebrates, invertebrates, human	02/20/2007	08/14/2009	
+Arumowot virus	-	-	3		12262 nt	4	-	vertebrates, invertebrates, human	03/04/2014	03/04/2014	
+          Arumowot virus     (4088 nt)     NC_023633     proteins: 1
+          Arumowot virus     (1798 nt)     NC_023634     proteins: 2
+          Arumowot virus     (6376 nt)     NC_023635     proteins: 1
+Australian bat lyssavirus	NC_003243	isolate:insectivorous isolate	-		11822 nt	5	1	vertebrates, human	08/10/1999	11/30/2009	
+Avian metapneumovirus	NC_007652	isolate:15a	-		14071 nt	9	9	vertebrates, human	12/17/2005	03/11/2010	
+Avian paramyxovirus 4	NC_019531	strain:APMV-4/duck/Delaware/549227/2010; isolate:Delaware-4	-		15048 nt	6	4	vertebrates, human	11/21/2012	03/12/2013	
+Avian paramyxovirus 6	NC_003043	strain:APMV-6/duck/Taiwan/Y1/98	-		16236 nt	7	6	vertebrates, human	08/01/2001	03/11/2010	
+Bagaza virus	NC_012534	strain:DakAr B209	-		10941 nt	1	8	vertebrates, invertebrates, human	04/06/2009	04/06/2009	
+Bat hepevirus	NC_018382	isolate:BatHEV/BS7/GE/2009	-		6796 nt	3	-	vertebrates, human	08/13/2012	08/13/2012	
+Bat sapovirus TLC58/HK	NC_017936	strain:TLC58/HK	-		7696 nt	2	-	vertebrates, human	05/18/2012	05/18/2012	
+Bear Canyon virus	-	strain:AV A0070039	2		10441 nt	4	-	vertebrates, human	01/11/2008	12/08/2008	
+          Bear Canyon virus     (7102 nt)     NC_010255     proteins: 2     neighbors: 1
+          Bear Canyon virus     (3339 nt)     NC_010256     proteins: 2     neighbors: 2
+Beilong virus	NC_007803	-	-		19212 nt	11	-	vertebrates, human	03/16/2006	03/30/2006	
+Boa arenavirus NL	-	-	2		10283 nt	4	-	vertebrates, human	03/12/2014	03/12/2014	
+          Boa arenavirus NL     (6932 nt)     NC_023762     proteins: 2
+          Boa arenavirus NL     (3351 nt)     NC_023761     proteins: 2
+Borna disease virus	NC_001607	-	-		8910 nt	6	12	vertebrates, human	01/06/1994	03/10/2011	
+Bovine parainfluenza virus 3	NC_002161	-	-		15456 nt	6	10	vertebrates, human	01/27/2000	12/08/2008	
+Bovine respiratory syncytial virus	NC_001989	strain:ATue51908	-		15140 nt	11	1	vertebrates, human	12/17/1998	11/23/2009	
+Brazoran virus	-	isolate:Original	3		13242 nt	4	-	vertebrates, invertebrates, human	08/09/2013	08/09/2013	
+          Brazoran virus     (1672 nt)     NC_022037     proteins: 2
+          Brazoran virus     (4659 nt)     NC_022038     proteins: 1
+          Brazoran virus     (6911 nt)     NC_022039     proteins: 1
+Bundibugyo ebolavirus	NC_014373	-	-		18940 nt	9	4	vertebrates, human	08/09/2010	08/09/2010	
+Bunyamwera virus	-	-	3		12294 nt	4	-	vertebrates, invertebrates, human	07/30/1991	07/16/2008	
+          Bunyamwera virus     (6875 nt)     NC_001925     proteins: 1
+          Bunyamwera virus     (4458 nt)     NC_001926     proteins: 1     neighbors: 10
+          Bunyamwera virus     (961 nt)     NC_001927     proteins: 2     neighbors: 15
+CAS virus	-	isolate:ATB	2		10180 nt	4	-	vertebrates, human	08/21/2012	10/05/2012	
+          CAS virus     (3368 nt)     NC_018481     proteins: 2
+          CAS virus     (6812 nt)     NC_018484     proteins: 2
+Candiru virus	-	-	3		12495 nt	4	-	vertebrates, invertebrates, human	04/07/2011	04/22/2011	
+          Candiru virus     (6327 nt)     NC_015374     proteins: 1     neighbors: 12
+          Candiru virus     (4326 nt)     NC_015373     proteins: 1     neighbors: 12
+          Candiru virus     (1842 nt)     NC_015375     proteins: 2     neighbors: 12
+Canine distemper virus	NC_001921	isolate:Onderstpoort	-		15690 nt	7	43	vertebrates, human	07/21/1998	11/30/2009	
+Cell fusing agent virus	NC_001564	-	-		10695 nt	1	-	vertebrates, invertebrates, human	08/03/1993	07/10/2008	
+Chandipura virus	NC_020805	isolate:CIN 0451	-		11120 nt	5	3	vertebrates, human	03/26/2013	03/26/2013	
+Chaoyang virus	NC_017086	isolate:HLD115	-		10733 nt	1	1	vertebrates, invertebrates, human	07/10/2012	07/10/2012	
+Chapare virus	-	strain:810419	2		10464 nt	4	-	vertebrates, human	04/05/2008	04/12/2008	
+          Chapare virus     (3357 nt)     NC_010562     proteins: 2
+          Chapare virus     (7107 nt)     NC_010563     proteins: 2
+Chikungunya virus	NC_004162	strain:S27-African prototype	-		11826 nt	3	161	vertebrates, invertebrates, human	09/06/2002	06/27/2012	
+Crimean-Congo hemorrhagic fever virus	-	strain:IbAr10200	3		19146 nt	3	-	vertebrates, invertebrates, human	12/13/2003	12/08/2008	
+          Crimean-Congo hemorrhagic fever virus     (5366 nt)     NC_005300     proteins: 1     neighbors: 51
+          Crimean-Congo hemorrhagic fever virus     (12108 nt)     NC_005301     proteins: 1     neighbors: 32
+          Crimean-Congo hemorrhagic fever virus     (1672 nt)     NC_005302     proteins: 1     neighbors: 56
+Culex flavivirus	NC_008604	strain:Tokyo	-		10837 nt	2	21	vertebrates, invertebrates, human	11/30/2006	06/25/2012	
+Cupixi virus	-	strain:BeAn 119303	2		10438 nt	4	-	vertebrates, human	01/11/2008	08/14/2008	
+          Cupixi virus     (3332 nt)     NC_010254     proteins: 2
+          Cupixi virus     (7106 nt)     NC_010252     proteins: 2
+Cutthroat trout virus	NC_015521	isolate:Heenan88	-		7310 nt	3	-	vertebrates, human	06/09/2011	06/09/2011	
+Dengue virus 1	NC_001477	type:1	-		10735 nt	1	3433	vertebrates, invertebrates, human	02/28/1997	11/17/2011	
+Dengue virus 2	NC_001474	strain:16681	-		10723 nt	1	3433	vertebrates, invertebrates, human	08/02/1993	11/17/2011	
+Dengue virus 3	NC_001475	isolate:D3/H/IMTSSA-SRI/2000/1266	-		10707 nt	1	3433	vertebrates, invertebrates, human	08/02/1993	11/17/2011	
+Dengue virus 4	NC_002640	-	-		10649 nt	1	3433	vertebrates, invertebrates, human	01/03/2001	11/17/2011	
+Dobrava-Belgrade virus	-	strain:DOBV/Ano-Poroia/Afl9/1999	3		11840 nt	3	-	vertebrates, human	03/27/2003	12/08/2008	
+          Dobrava-Belgrade virus     (6532 nt)     NC_005235     proteins: 1     neighbors: 2
+          Dobrava-Belgrade virus     (3635 nt)     NC_005234     proteins: 1     neighbors: 7
+          Dobrava-Belgrade virus     (1673 nt)     NC_005233     proteins: 1     neighbors: 14
+Dolphin morbillivirus	NC_005283	-	-		15702 nt	7	-	vertebrates, human	11/21/2003	02/04/2011	
+Donggang virus	NC_016997	isolate:DG0909	-		10791 nt	1	-	vertebrates, invertebrates, human	03/23/2012	03/23/2012	
+Dugbe virus	-	isolate:ArD44313	3		18859 nt	3	-	vertebrates, invertebrates, human	03/31/1995	07/10/2008	
+          Dugbe virus     (12255 nt)     NC_004159     proteins: 1
+          Dugbe virus     (4888 nt)     NC_004158     proteins: 1
+          Dugbe virus     (1716 nt)     NC_004157     proteins: 1     neighbors: 5
+Duvenhage virus	NC_020810	isolate:86132SA	-		11976 nt	5	3	vertebrates, human	03/26/2013	03/26/2013	
+Ebola virus - Mayinga, Zaire, 1976	NC_002549	strain:Mayinga	-		18959 nt	9	8	vertebrates, human	02/10/1999	02/13/2012	
+Entebbe bat virus	NC_008718	strain:UgIL-30	-		10510 nt	1	1	vertebrates, invertebrates, human	12/27/2006	12/08/2008	
+Enterovirus A	NC_001612	-	-		7413 nt	1	427	vertebrates, human	03/08/1994	05/23/2013	
+Enterovirus B	NC_001472	-	-		7389 nt	1	194	vertebrates, human	08/02/1993	06/05/2013	
+Enterovirus C	NC_002058	strain:Human poliovirus 1 Mahoney	-		7440 nt	1	332	vertebrates, human	11/03/1982	01/17/2013	
+Enterovirus D	NC_001430	strain:Enterovirus 70	-		7390 nt	1	11	vertebrates, human	04/29/1993	12/08/2008	
+European bat lyssavirus 1	NC_009527	isolate:RV9; 9395GER	-		11966 nt	5	7	vertebrates, human	06/07/2007	12/08/2008	
+European bat lyssavirus 2	NC_009528	isolate:RV1333	-		11930 nt	5	2	vertebrates, human	06/07/2007	12/08/2008	
+Fer-de-Lance paramyxovirus	NC_005084	strain:ATCC VR-895	-		15378 nt	8	-	vertebrates, human	09/05/2003	07/16/2008	
+Flexal virus	-	strain:BeAn 293022	2		10448 nt	4	-	vertebrates, human	05/22/2008	08/14/2008	
+          Flexal virus     (7038 nt)     NC_010759     proteins: 2
+          Flexal virus     (3410 nt)     NC_010757     proteins: 2     neighbors: 1
+GB virus C	NC_001710	-	-		9392 nt	1	49	vertebrates, human	01/27/1996	12/08/2008	
+Golden Gate virus	-	isolate:BC	2		10404 nt	4	-	vertebrates, human	08/21/2012	10/05/2012	
+          Golden Gate virus     (6922 nt)     NC_018482     proteins: 2
+          Golden Gate virus     (3482 nt)     NC_018483     proteins: 2
+Goose paramyxovirus SF02	NC_005036	isolate:SF02	-		15192 nt	6	-	vertebrates, human	07/12/2003	11/30/2009	
+Guanarito virus	-	strain:INH-95551	2		10424 nt	4	-	vertebrates, human	08/30/2003	11/30/2009	
+          Guanarito virus     (3343 nt)     NC_005077     proteins: 2     neighbors: 2
+          Guanarito virus     (7081 nt)     NC_005082     proteins: 2     neighbors: 1
+Hantaan virus	-	strain:76-118	3		11845 nt	3	-	vertebrates, human	11/15/1990	02/05/2011	
+          Hantaan virus     (6533 nt)     NC_005222     proteins: 1     neighbors: 7
+          Hantaan virus     (1696 nt)     NC_005218     proteins: 1     neighbors: 58
+          Hantaan virus     (3616 nt)     NC_005219     proteins: 1     neighbors: 43
+Hantavirus Z10	-	-	3		11850 nt	3	-	vertebrates, human	11/13/2004	11/30/2009	
+          Hantavirus Z10     (3616 nt)     NC_006437     proteins: 1     neighbors: 1
+          Hantavirus Z10     (1701 nt)     NC_006433     proteins: 1     neighbors: 1
+          Hantavirus Z10     (6533 nt)     NC_006435     proteins: 1
+Hendra virus	NC_001906	-	-		18234 nt	8	12	vertebrates, human	07/01/1998	08/07/2013	
+Hepatitis C virus	NC_004102	serotype:1a; isolate:H77	-		9646 nt	2	1165	vertebrates, human	08/09/1997	06/18/2009	
+Hepatitis C virus genotype 2	NC_009823	strain:HC-J6CH	-		9711 nt	1	1165	vertebrates, human	10/01/2007	07/26/2011	
+Hepatitis C virus genotype 3	NC_009824	isolate:NZL1	-		9456 nt	1	1165	vertebrates, human	10/01/2007	07/27/2011	
+Hepatitis C virus genotype 4	NC_009825	isolate:ED43	-		9355 nt	1	1165	vertebrates, human	07/09/1997	07/26/2011	
+Hepatitis C virus genotype 5	NC_009826	strain:EUH1480	-		9343 nt	1	1165	vertebrates, human	09/12/1997	07/26/2011	
+Hepatitis C virus genotype 6	NC_009827	isolate:Th580	-		9628 nt	1	1165	vertebrates, human	10/01/2007	07/26/2011	
+Hepatitis E virus	NC_001434	strain:Xinjiang	-		7176 nt	3	218	vertebrates, human	08/02/1993	03/09/2011	
+Human coronavirus 229E	NC_002645	strain:229E	-		27317 nt	8	6	vertebrates, human	01/11/2001	04/28/2010	
+Human coronavirus HKU1	NC_006577	isolate:HKU1	-		29926 nt	8	35	vertebrates, human	12/28/2004	12/08/2008	
+Human coronavirus NL63	NC_005831	strain:Amsterdam I	-		27553 nt	6	24	vertebrates, human	03/23/2004	11/17/2010	
+Human coronavirus OC43	NC_005147	strain:ATCC VR-759; isolate:OC43	-		30738 nt	9	32	vertebrates, human	10/29/2003	12/13/2013	
+Human enteric coronavirus strain 4408	NC_012950	strain:4408	-		30953 nt	12	-	vertebrates, human	07/13/2009	11/27/2012	
+Human metapneumovirus	NC_004148	isolate:CAN97-83	-		13335 nt	9	68	vertebrates, human	06/17/2001	12/08/2008	
+Human parainfluenza virus 1	NC_003461	strain:Washington 1964	-		15600 nt	10	20	vertebrates, human	03/15/2002	05/06/2009	
+Human parainfluenza virus 2	NC_003443	-	-		15646 nt	7	4	vertebrates, human	07/10/1991	04/22/2009	
+Human parainfluenza virus 3	NC_001796	-	-		15462 nt	8	47	vertebrates, human	09/01/1998	04/22/2009	
+Human parainfluenza virus 4a	NC_021928	strain:M-25	-		17052 nt	7	5	vertebrates, human	08/06/2013	08/06/2013	
+Human respiratory syncytial virus	NC_001781	strain:B1	-		15225 nt	11	125	vertebrates, human	11/02/1997	11/30/2009	
+Human rhinovirus B14	NC_001490	-	-		7212 nt	1	43	vertebrates, human	08/02/1993	11/30/2009	
+Ikoma lyssavirus	NC_018629	isolate:RV2508	-		11902 nt	5	-	vertebrates, human	09/21/2012	09/21/2012	
+Ilheus virus	NC_009028	strain:Original	-		10755 nt	1	2	vertebrates, invertebrates, human	02/20/2007	04/15/2010	
+Influenza A virus (A/Hong Kong/1073/99(H9N2))	-	strain:A/Hong Kong/1073/99	8		13498 nt	12	-	vertebrates, human	06/30/2000	03/30/2006	
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (1714 nt)     NC_004908     proteins: 1
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (2225 nt)     NC_004912     proteins: 2
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (2328 nt)     NC_004911     proteins: 2
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (1418 nt)     NC_004909     proteins: 1
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (1025 nt)     NC_004907     proteins: 2
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (890 nt)     NC_004906     proteins: 2
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (1557 nt)     NC_004905     proteins: 1
+          Influenza A virus (A/Hong Kong/1073/99(H9N2))     (2341 nt)     NC_004910     proteins: 1
+Influenza A virus (A/Korea/426/1968(H2N2))	-	serotype:H2N2; isolate:A/Korea/426/68	8		13460 nt	12	-	vertebrates, human	08/30/2005	03/30/2006	
+          Influenza A virus (A/Korea/426/1968(H2N2))     (1410 nt)     NC_007382     proteins: 1
+          Influenza A virus (A/Korea/426/1968(H2N2))     (838 nt)     NC_007380     proteins: 2
+          Influenza A virus (A/Korea/426/1968(H2N2))     (2341 nt)     NC_007375     proteins: 2
+          Influenza A virus (A/Korea/426/1968(H2N2))     (2233 nt)     NC_007376     proteins: 2
+          Influenza A virus (A/Korea/426/1968(H2N2))     (1773 nt)     NC_007374     proteins: 1
+          Influenza A virus (A/Korea/426/1968(H2N2))     (1497 nt)     NC_007381     proteins: 1
+          Influenza A virus (A/Korea/426/1968(H2N2))     (2341 nt)     NC_007378     proteins: 1
+          Influenza A virus (A/Korea/426/1968(H2N2))     (1027 nt)     NC_007377     proteins: 2
+Influenza A virus (A/New York/392/2004(H3N2))	-	strain:A/New York/392/2004; serotype:H3N2	8		13627 nt	12	-	vertebrates, human	08/30/2005	03/30/2006	
+          Influenza A virus (A/New York/392/2004(H3N2))     (1762 nt)     NC_007366     proteins: 1
+          Influenza A virus (A/New York/392/2004(H3N2))     (1566 nt)     NC_007369     proteins: 1
+          Influenza A virus (A/New York/392/2004(H3N2))     (1467 nt)     NC_007368     proteins: 1
+          Influenza A virus (A/New York/392/2004(H3N2))     (1027 nt)     NC_007367     proteins: 2
+          Influenza A virus (A/New York/392/2004(H3N2))     (2341 nt)     NC_007372     proteins: 2
+          Influenza A virus (A/New York/392/2004(H3N2))     (2341 nt)     NC_007373     proteins: 1
+          Influenza A virus (A/New York/392/2004(H3N2))     (2233 nt)     NC_007371     proteins: 2
+          Influenza A virus (A/New York/392/2004(H3N2))     (890 nt)     NC_007370     proteins: 2
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))	-	strain:A/Puerto Rico/8/34	8		13588 nt	12	-	vertebrates, human	08/02/1993	03/14/2011	
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (2341 nt)     NC_002021     proteins: 2
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (2233 nt)     NC_002022     proteins: 2
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (1778 nt)     NC_002017     proteins: 1
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (2341 nt)     NC_002023     proteins: 1
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (1565 nt)     NC_002019     proteins: 1
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (1413 nt)     NC_002018     proteins: 1
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (1027 nt)     NC_002016     proteins: 2
+          Influenza A virus (A/Puerto Rico/8/1934(H1N1))     (890 nt)     NC_002020     proteins: 2
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	-	strain:A/Goose/Guangdong/1/96(H5N1)	8		13590 nt	12	-	vertebrates, human	08/26/2005	03/14/2011	
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (2341 nt)     NC_007358     proteins: 2
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (1760 nt)     NC_007362     proteins: 1
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (1027 nt)     NC_007363     proteins: 2
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (1458 nt)     NC_007361     proteins: 1
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (2233 nt)     NC_007359     proteins: 2
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (1565 nt)     NC_007360     proteins: 1
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (865 nt)     NC_007364     proteins: 2
+          Influenza A virus (A/goose/Guangdong/1/1996(H5N1))     (2341 nt)     NC_007357     proteins: 1
+Influenza B virus	-	strain:B/Lee/40	8		14452 nt	11	-	vertebrates, human	08/02/1993	07/16/2008	
+          Influenza B virus     (2368 nt)     NC_002204     proteins: 1
+          Influenza B virus     (1882 nt)     NC_002207     proteins: 1
+          Influenza B virus     (1841 nt)     NC_002208     proteins: 1
+          Influenza B virus     (1557 nt)     NC_002209     proteins: 2
+          Influenza B virus     (1191 nt)     NC_002210     proteins: 2
+          Influenza B virus     (1096 nt)     NC_002211     proteins: 2
+          Influenza B virus     (2313 nt)     NC_002205     proteins: 1
+          Influenza B virus     (2204 nt)     NC_002206     proteins: 1
+Influenza C virus (C/Ann Arbor/1/50)	-	strain:C/Ann Arbor/1/50	7		12555 nt	9	-	vertebrates, human	09/24/2004	08/18/2010	
+          Influenza C virus (C/Ann Arbor/1/50)     (1807 nt)     NC_006311     proteins: 1
+          Influenza C virus (C/Ann Arbor/1/50)     (1968 nt)     NC_006310     proteins: 1     neighbors: 23
+          Influenza C virus (C/Ann Arbor/1/50)     (1125 nt)     NC_006312     proteins: 2     neighbors: 27
+          Influenza C virus (C/Ann Arbor/1/50)     (2130 nt)     NC_006309     proteins: 1     neighbors: 1
+          Influenza C virus (C/Ann Arbor/1/50)     (2265 nt)     NC_006308     proteins: 1     neighbors: 1
+          Influenza C virus (C/Ann Arbor/1/50)     (2325 nt)     NC_006307     proteins: 1     neighbors: 3
+          Influenza C virus (C/Ann Arbor/1/50)     (935 nt)     NC_006306     proteins: 2     neighbors: 86
+Ippy virus	-	strain:Dak An B 188 d	2		10682 nt	4	-	vertebrates, human	03/16/2006	08/14/2008	
+          Ippy virus     (7316 nt)     NC_007906     proteins: 2
+          Ippy virus     (3366 nt)     NC_007905     proteins: 2
+Irkut virus	NC_020809	-	-		11980 nt	5	1	vertebrates, human	03/26/2013	03/26/2013	
+J-virus	NC_007454	-	-		18954 nt	11	-	vertebrates, human	10/05/2005	12/01/2009	
+Japanese encephalitis virus	NC_001437	-	-		10976 nt	2	171	vertebrates, invertebrates, human	08/02/1993	05/24/2012	
+Junin virus	-	strain:XJ13	2		10525 nt	4	-	vertebrates, human	08/30/2003	12/01/2009	
+          Junin virus     (3411 nt)     NC_005081     proteins: 2     neighbors: 29
+          Junin virus     (7114 nt)     NC_005080     proteins: 2     neighbors: 15
+Kamiti River virus	NC_005064	isolate:SR-82	-		11375 nt	2	1	vertebrates, invertebrates, human	08/13/2003	06/26/2012	
+Karshi virus	NC_006947	strain:LEIV 2247; serotype:tick-borne encephalitis group	-		10653 nt	1	3	vertebrates, invertebrates, human	04/07/2005	12/01/2009	
+Kedougou virus	NC_012533	strain:DakAar D1470	-		10723 nt	1	-	vertebrates, invertebrates, human	04/06/2009	04/06/2009	
+Kokobera virus	NC_009029	strain:AusMRM 32	-		10874 nt	1	-	vertebrates, invertebrates, human	02/20/2007	12/04/2013	
+La Crosse virus	-	strain:Human/78	3		12491 nt	4	-	vertebrates, invertebrates, human	08/13/2002	11/30/2009	
+          La Crosse virus     (6980 nt)     NC_004108     proteins: 1     neighbors: 9
+          La Crosse virus     (4527 nt)     NC_004109     proteins: 1     neighbors: 28
+          La Crosse virus     (984 nt)     NC_004110     proteins: 2     neighbors: 21
+Lagos bat virus	NC_020807	isolate:0406SEN	-		12016 nt	5	4	vertebrates, human	03/26/2013	03/26/2013	
+Langat virus	NC_003690	strain:TP21	-		10943 nt	1	2	vertebrates, invertebrates, human	06/11/2000	11/30/2009	
+Lassa virus	-	strain:Josiah	2		10681 nt	4	-	vertebrates, human	03/17/1998	12/08/2008	
+          Lassa virus     (7279 nt)     NC_004297     proteins: 2     neighbors: 10
+          Lassa virus     (3402 nt)     NC_004296     proteins: 2     neighbors: 15
+Latino virus	-	strain:MARU 10924	2		10648 nt	4	-	vertebrates, human	05/22/2008	08/14/2008	
+          Latino virus     (7174 nt)     NC_010760     proteins: 2
+          Latino virus     (3474 nt)     NC_010758     proteins: 2     neighbors: 1
+Lloviu virus	NC_016144	strain:MS-Liver-86/2003	-		18927 nt	9	-	vertebrates, human	11/03/2011	11/03/2011	
+Louping ill virus	NC_001809	strain:369/T2	-		10871 nt	1	1	vertebrates, invertebrates, human	04/29/1997	01/27/2012	
+Lujo virus	-	-	2		10352 nt	4	-	vertebrates, human	06/04/2009	01/08/2010	
+          Lujo virus     (7163 nt)     NC_012777     proteins: 2     neighbors: 1
+          Lujo virus     (3189 nt)     NC_012776     proteins: 2     neighbors: 1
+Luna virus	-	strain:LSK-1	2		10607 nt	4	-	vertebrates, human	11/08/2011	01/27/2012	
+          Luna virus     (7230 nt)     NC_016153     proteins: 2     neighbors: 4
+          Luna virus     (3377 nt)     NC_016152     proteins: 2     neighbors: 4
+Lunk virus NKS-1	-	strain:NKS-1	2		10614 nt	4	-	vertebrates, human	10/04/2012	10/05/2012	
+          Lunk virus NKS-1     (3419 nt)     NC_018710     proteins: 2
+          Lunk virus NKS-1     (7195 nt)     NC_018711     proteins: 2
+Lymphocytic choriomeningitis virus	-	-	2		10056 nt	4	-	vertebrates, human	08/02/1993	12/08/2008	
+          Lymphocytic choriomeningitis virus     (3376 nt)     NC_004294     proteins: 2     neighbors: 24
+          Lymphocytic choriomeningitis virus     (6680 nt)     NC_004291     proteins: 2     neighbors: 15
+Machupo virus	-	strain:Carvallo	2		10635 nt	4	-	vertebrates, human	08/30/2003	12/01/2009	
+          Machupo virus     (7196 nt)     NC_005079     proteins: 2     neighbors: 2
+          Machupo virus     (3439 nt)     NC_005078     proteins: 2     neighbors: 2
+Mamastrovirus 1	NC_001943	type:1	-		6813 nt	2	26	vertebrates, human	11/01/1993	12/08/2008	
+Mapuera virus	NC_009489	isolate:BeAnn 370284	-		15486 nt	9	-	vertebrates, human	05/24/2007	07/02/2007	
+Marburg marburgvirus	NC_001608	strain:Musoke	-		19111 nt	7	67	vertebrates, human	01/26/1994	12/08/2008	
+Mayaro virus	NC_003417	-	-		11411 nt	4	1	vertebrates, invertebrates, human	02/22/2002	06/27/2012	
+Measles virus	NC_001498	strain:Ichinose-B95a	-		15894 nt	8	68	vertebrates, human	12/09/1998	03/07/2013	
+Menangle virus	NC_007620	-	-		15516 nt	7	1	vertebrates, human	11/28/2005	12/01/2009	
+Merino Walk virus	-	-	2		10562 nt	4	-	vertebrates, human	03/12/2014	03/12/2014	
+          Merino Walk virus     (7198 nt)     NC_023763     proteins: 2
+          Merino Walk virus     (3364 nt)     NC_023764     proteins: 2
+Mobala virus	-	strain:Acar 3080	2		10705 nt	4	-	vertebrates, human	03/16/2006	08/14/2008	
+          Mobala virus     (7325 nt)     NC_007904     proteins: 2
+          Mobala virus     (3380 nt)     NC_007903     proteins: 2
+Modoc virus	NC_003635	strain:M544	-		10600 nt	1	-	vertebrates, invertebrates, human	02/23/2002	05/06/2009	
+Mokola virus	NC_006429	-	-		11940 nt	5	6	vertebrates, human	02/06/1997	03/10/2011	
+Montana myotis leukoencephalitis virus	NC_004119	-	-		10690 nt	1	-	vertebrates, invertebrates, human	08/22/2002	05/06/2009	
+Mopeia Lassa virus reassortant 29	-	strain:ML29 IGS-15	2		10673 nt	4	-	vertebrates, human	12/17/2004	11/15/2012	
+          Mopeia Lassa virus reassortant 29     (3402 nt)     NC_006573     proteins: 2
+          Mopeia Lassa virus reassortant 29     (7271 nt)     NC_006572     proteins: 2
+Mopeia virus AN20410	-	strain:AN20410	2		10698 nt	4	-	vertebrates, human	12/17/2004	12/01/2009	
+          Mopeia virus AN20410     (3427 nt)     NC_006575     proteins: 2     neighbors: 2
+          Mopeia virus AN20410     (7271 nt)     NC_006574     proteins: 2     neighbors: 1
+Morogoro virus	-	strain:3017/2004	2		10590 nt	4	-	vertebrates, human	08/04/2009	12/03/2009	
+          Morogoro virus     (3383 nt)     NC_013057     proteins: 2
+          Morogoro virus     (7207 nt)     NC_013058     proteins: 2
+Mosquito flavivirus	NC_021069	isolate:LSFlaviV-A20-09	-		10865 nt	1	-	vertebrates, invertebrates, human	04/22/2013	04/22/2013	
+Mossman virus	NC_005339	-	-		16650 nt	8	-	vertebrates, human	01/21/2004	06/10/2010	
+Mumps virus	NC_002200	strain:Miyahara	-		15384 nt	8	54	vertebrates, human	04/11/2000	08/21/2010	
+Murray Valley encephalitis virus	NC_000943	-	-		11014 nt	2	10	vertebrates, invertebrates, human	11/02/1999	06/20/2012	
+Nariva virus	NC_017937	-	-		15276 nt	8	-	vertebrates, human	05/18/2012	05/18/2012	
+Newcastle disease virus B1	NC_002617	strain:B1	-		15186 nt	6	239	vertebrates, human	12/02/2000	11/30/2009	
+Nipah virus	NC_002728	-	-		18246 nt	9	10	vertebrates, human	06/01/2000	12/12/2012	
+Norwalk virus	NC_001959	-	-		7654 nt	3	438	vertebrates, human	08/02/1993	12/08/2008	
+Ntaya virus	NC_018705	isolate:IPDIA	-		10943 nt	1	-	vertebrates, invertebrates, human	10/04/2012	12/04/2013	
+O'nyong-nyong virus	NC_001512	-	-		11835 nt	3	2	vertebrates, invertebrates, human	08/02/1993	06/27/2012	
+Oliveros virus	-	strain:3229-1	2		10719 nt	4	-	vertebrates, human	01/11/2008	01/11/2008	
+          Oliveros virus     (3535 nt)     NC_010248     proteins: 2
+          Oliveros virus     (7184 nt)     NC_010250     proteins: 2
+Omsk hemorrhagic fever virus	NC_005062	strain:Bogoluvovska	-		10787 nt	1	3	vertebrates, invertebrates, human	08/12/2003	12/01/2009	
+Oropouche virus	-	-	3		11985 nt	4	-	vertebrates, invertebrates, human	03/04/2004	12/01/2009	
+          Oropouche virus     (754 nt)     NC_005777     proteins: 2     neighbors: 1
+          Oropouche virus     (4385 nt)     NC_005775     proteins: 1     neighbors: 1
+          Oropouche virus     (6846 nt)     NC_005776     proteins: 1
+Parainfluenza virus 5	NC_006430	strain:W3A	-		15246 nt	8	12	vertebrates, human	11/16/2004	03/11/2010	
+Parana virus	-	strain:12056	2		10494 nt	4	-	vertebrates, human	05/22/2008	08/14/2008	
+          Parana virus     (7088 nt)     NC_010761     proteins: 2
+          Parana virus     (3406 nt)     NC_010756     proteins: 2     neighbors: 1
+Peste-des-petits-ruminants virus	NC_006383	isolate:Turkey 2000	-		15948 nt	8	10	vertebrates, human	10/15/2004	02/04/2011	
+Pichinde virus	-	-	2		10416 nt	4	-	vertebrates, human	11/13/2004	11/30/2009	
+          Pichinde virus     (3419 nt)     NC_006447     proteins: 2     neighbors: 9
+          Pichinde virus     (6997 nt)     NC_006439     proteins: 2     neighbors: 2
+Pirital virus	-	strain:VAV-488	2		10482 nt	4	-	vertebrates, human	06/14/2004	12/08/2008	
+          Pirital virus     (3393 nt)     NC_005894     proteins: 2     neighbors: 8
+          Pirital virus     (7089 nt)     NC_005897     proteins: 2     neighbors: 1
+Pneumonia virus of mice J3666	NC_006579	strain:J3666	-		14885 nt	12	2	vertebrates, human	12/30/2004	01/07/2010	
+Porcine enteric sapovirus	NC_000940	strain:Cowden	-		7320 nt	2	23	vertebrates, human	10/31/1999	11/30/2009	
+Porcine rubulavirus	NC_009640	-	-		15180 nt	9	-	vertebrates, human	07/06/2007	07/24/2007	
+Powassan virus	NC_003687	strain:LB	-		10839 nt	1	12	vertebrates, invertebrates, human	07/26/1993	12/08/2008	
+Puumala virus	-	strain:Sotkamo	3		12062 nt	3	-	vertebrates, human	12/23/1995	02/05/2011	
+          Puumala virus     (6550 nt)     NC_005225     neighbors: 11
+          Puumala virus     (3682 nt)     NC_005223     proteins: 1     neighbors: 24
+          Puumala virus     (1830 nt)     NC_005224     proteins: 2     neighbors: 56
+Quang Binh virus	NC_012671	isolate:VN180	-		10865 nt	2	-	vertebrates, invertebrates, human	05/11/2009	06/25/2012	
+Rabies virus	NC_001542	-	-		11932 nt	5	204	vertebrates, human	08/03/1993	12/08/2008	
+Razdan virus	-	strain:LEIV-Arm2741	3		11470 nt	4	-	vertebrates, invertebrates, human	11/01/2013	11/01/2013	
+          Razdan virus     (1871 nt)     NC_022632     proteins: 2
+          Razdan virus     (3303 nt)     NC_022631     proteins: 1
+          Razdan virus     (6296 nt)     NC_022630     proteins: 1
+Respiratory syncytial virus	NC_001803	strain:S2 ts1C	-		15191 nt	10	23	vertebrates, human	03/28/1997	11/23/2009	
+Reston ebolavirus	NC_004161	strain:Pennsylvania	-		18891 nt	8	7	vertebrates, human	09/04/2002	09/08/2010	
+Rhinovirus A	NC_001617	serotype:89	-		7152 nt	1	114	vertebrates, human	09/22/1993	12/08/2008	
+Rift Valley fever virus	-	strain:ZH-548	3		11979 nt	4	-	vertebrates, invertebrates, human	08/11/2010	08/12/2010	
+          Rift Valley fever virus     (1690 nt)     NC_014395     proteins: 2     neighbors: 49
+          Rift Valley fever virus     (3885 nt)     NC_014396     proteins: 1     neighbors: 55
+          Rift Valley fever virus     (6404 nt)     NC_014397     proteins: 1     neighbors: 49
+Rinderpest virus (strain Kabete O)	NC_006296	strain:Kabete 'O' virulent	-		15882 nt	7	7	vertebrates, human	06/05/1996	02/05/2011	
+Rio Bravo virus	NC_003675	strain:RiMAR	-		10140 nt	1	1	vertebrates, invertebrates, human	03/03/2000	07/10/2008	
+Rodent hepacivirus	NC_021153	isolate:RHV-339	-		8879 nt	1	-	vertebrates, human	05/01/2013	05/01/2013	
+Ross River virus	NC_001544	strain:NB5092	-		11657 nt	3	10	vertebrates, invertebrates, human	08/03/1993	06/27/2012	
+Rubella virus	NC_001545	strain:F-Therien	-		9762 nt	2	46	vertebrates, human	08/03/1993	06/17/2011	
+SARS coronavirus	NC_004718	isolate:Tor2	-		29751 nt	14	301	vertebrates, human	04/14/2003	09/02/2011	
+SFTS virus HB29	-	strain:HB29	3		11490 nt	4	-	vertebrates, invertebrates, human	07/13/2012	07/13/2012	
+          SFTS virus HB29     (1744 nt)     NC_018137     proteins: 2     neighbors: 113
+          SFTS virus HB29     (3378 nt)     NC_018138     proteins: 1     neighbors: 104
+          SFTS virus HB29     (6368 nt)     NC_018136     proteins: 1     neighbors: 102
+Sabia virus	-	strain:SPH114202	2		10499 nt	4	-	vertebrates, human	09/24/2004	12/01/2009	
+          Sabia virus     (7133 nt)     NC_006313     proteins: 2     neighbors: 2
+          Sabia virus     (3366 nt)     NC_006317     proteins: 2     neighbors: 1
+Sandfly fever Naples virus	-	strain:Toscana ISS.Phl.3	3		12488 nt	4	-	vertebrates, invertebrates, human	10/27/1992	12/08/2008	
+          Sandfly fever Naples virus     (6404 nt)     NC_006319     proteins: 1     neighbors: 7
+          Sandfly fever Naples virus     (4215 nt)     NC_006320     proteins: 1     neighbors: 16
+          Sandfly fever Naples virus     (1869 nt)     NC_006318     proteins: 2     neighbors: 19
+Sandfly fever Turkey virus	-	strain:Izmir 19	3		12603 nt	4	-	vertebrates, invertebrates, human	04/26/2011	04/26/2011	
+          Sandfly fever Turkey virus     (6439 nt)     NC_015412     proteins: 1
+          Sandfly fever Turkey virus     (4403 nt)     NC_015411     proteins: 1     neighbors: 1
+          Sandfly fever Turkey virus     (1761 nt)     NC_015413     proteins: 2     neighbors: 9
+Sapovirus C12	NC_006554	strain:C12	-		7476 nt	2	23	vertebrates, human	12/17/2004	12/08/2008	
+Sapovirus Hu/Dresden/pJG-Sap01/DE	NC_006269	strain:Hu/Dresden/pJG-Sap01/DE	-		7429 nt	3	23	vertebrates, human	09/09/2004	12/08/2008	
+Sapovirus Mc10	NC_010624	strain:Mc10	-		7458 nt	2	23	vertebrates, human	06/05/2004	12/09/2008	
+Sathuperi virus	-	-	3		12034 nt	4	-	vertebrates, invertebrates, human	08/20/2012	11/06/2013	
+          Sathuperi virus     (4330 nt)     NC_018466     proteins: 1     neighbors: 1
+          Sathuperi virus     (843 nt)     NC_018462     proteins: 2     neighbors: 1
+          Sathuperi virus     (6861 nt)     NC_018461     proteins: 1     neighbors: 1
+Sendai virus	NC_001552	strain:Ohita; isolate:M1	-		15384 nt	10	19	vertebrates, human	01/17/1998	03/09/2011	
+Seoul virus	-	strain:80-39	3		11950 nt	3	-	vertebrates, human	07/23/1991	12/08/2008	
+          Seoul virus     (6530 nt)     NC_005238     proteins: 1     neighbors: 6
+          Seoul virus     (1769 nt)     NC_005236     proteins: 1     neighbors: 26
+          Seoul virus     (3651 nt)     NC_005237     proteins: 1     neighbors: 24
+Sepik virus	NC_008719	strain:MK7148	-		10793 nt	1	1	vertebrates, invertebrates, human	12/27/2006	12/08/2008	
+Shamonda virus	-	isolate:Ib An 5550	3		12104 nt	4	-	vertebrates, invertebrates, human	08/20/2012	11/06/2013	
+          Shamonda virus     (4314 nt)     NC_018467     proteins: 1     neighbors: 2
+          Shamonda virus     (927 nt)     NC_018464     proteins: 2     neighbors: 2
+          Shamonda virus     (6863 nt)     NC_018463     proteins: 1     neighbors: 2
+Simbu virus	-	isolate:SA Ar 53	3		12172 nt	4	-	vertebrates, invertebrates, human	08/20/2012	11/06/2013	
+          Simbu virus     (6895 nt)     NC_018476     proteins: 1
+          Simbu virus     (860 nt)     NC_018477     proteins: 2
+          Simbu virus     (4417 nt)     NC_018478     proteins: 1
+Simian virus 41	NC_006428	isolate:Toshiba/Chanock	-		15450 nt	7	-	vertebrates, human	12/01/1993	05/09/2007	
+Sin Nombre virus	-	isolate:NM H10	3		12317 nt	4	-	vertebrates, human	11/18/2003	04/18/2013	
+          Sin Nombre virus     (6562 nt)     NC_005217     proteins: 1     neighbors: 2
+          Sin Nombre virus     (2059 nt)     NC_005216     proteins: 2     neighbors: 9
+          Sin Nombre virus     (3696 nt)     NC_005215     proteins: 1     neighbors: 9
+St. Louis encephalitis virus	NC_007580	strain:Kern217	-		10940 nt	1	8	vertebrates, invertebrates, human	11/04/2005	12/08/2008	
+Sudan ebolavirus	NC_006432	strain:Gulu	-		18875 nt	8	9	vertebrates, human	11/15/2004	02/12/2009	
+Tacaribe virus	-	-	2		10534 nt	4	-	vertebrates, human	08/03/1993	07/10/2008	
+          Tacaribe virus     (3432 nt)     NC_004293     proteins: 2
+          Tacaribe virus     (7102 nt)     NC_004292     proteins: 2
+Tai Forest ebolavirus	NC_014372	-	-		18935 nt	9	-	vertebrates, human	08/05/2010	09/08/2010	
+Tamana bat virus	NC_003996	-	-		10053 nt	1	1	vertebrates, invertebrates, human	04/17/2002	12/08/2008	
+Tamiami virus	-	strain:W 10777	2		10674 nt	4	-	vertebrates, human	05/19/2008	12/09/2008	
+          Tamiami virus     (7141 nt)     NC_010702     proteins: 2     neighbors: 1
+          Tamiami virus     (3533 nt)     NC_010701     proteins: 2     neighbors: 2
+Tembusu virus	NC_015843	strain:JS804	-		10990 nt	1	36	vertebrates, invertebrates, human	07/15/2011	08/15/2013	
+Thogoto virus	-	-	6		10461 nt	7	-	vertebrates, invertebrates, human	12/07/2004	06/09/2011	
+          Thogoto virus     (1927 nt)     NC_006496     proteins: 1     neighbors: 1
+          Thogoto virus     (1574 nt)     NC_006506     proteins: 1
+          Thogoto virus     (955 nt)     NC_006504     proteins: 2     neighbors: 3
+          Thogoto virus     (2375 nt)     NC_006508     proteins: 1
+          Thogoto virus     (1418 nt)     NC_006507     proteins: 1
+          Thogoto virus     (2212 nt)     NC_006495     proteins: 1
+Thottapalayam virus	-	strain:VRC 66412	3		11732 nt	3	-	vertebrates, human	05/20/2008	12/09/2008	
+          Thottapalayam virus     (6581 nt)     NC_010707     proteins: 1     neighbors: 1
+          Thottapalayam virus     (3621 nt)     NC_010708     proteins: 1     neighbors: 1
+          Thottapalayam virus     (1530 nt)     NC_010704     proteins: 1
+Tick-borne encephalitis virus	NC_001672	-	-		11141 nt	1	78	vertebrates, invertebrates, human	09/05/1995	12/08/2008	
+Tioman virus	NC_004074	-	-		15522 nt	8	-	vertebrates, human	06/19/2001	11/30/2009	
+Tula virus	-	strain:Moravia/5302v/95	3		12066 nt	4	-	vertebrates, human	06/17/1996	04/22/2009	
+          Tula virus     (3694 nt)     NC_005228     proteins: 1     neighbors: 1
+          Tula virus     (6541 nt)     NC_005226     proteins: 1
+          Tula virus     (1831 nt)     NC_005227     proteins: 2     neighbors: 17
+Tupaia paramyxovirus	NC_002199	-	-		17904 nt	8	-	vertebrates, human	04/12/2000	06/06/2010	
+Usutu virus	NC_006551	strain:Vienna 2001	-		11066 nt	2	9	vertebrates, invertebrates, human	12/17/2004	06/20/2012	
+Uukuniemi virus	-	strain:S23	3		11372 nt	4	-	vertebrates, invertebrates, human	11/18/2003	06/28/2010	
+          Uukuniemi virus     (1720 nt)     NC_005221     proteins: 2     neighbors: 3
+          Uukuniemi virus     (6423 nt)     NC_005214     proteins: 1     neighbors: 6
+          Uukuniemi virus     (3229 nt)     NC_005220     proteins: 1     neighbors: 6
+Vesicular stomatitis Indiana virus	NC_001560	-	-		11161 nt	6	7	vertebrates, human	08/03/1993	03/09/2011	
+Wesselsbron virus	NC_012735	strain:SAH177	-		10814 nt	1	1	vertebrates, invertebrates, human	06/02/2009	01/07/2010	
+West Nile virus	-	strain:956	2		21991 nt	4	-	vertebrates, invertebrates, human	08/03/1993	08/28/2012	
+          West Nile virus     (10962 nt)     NC_001563     proteins: 1     neighbors: 704
+          West Nile virus     (11029 nt)     NC_009942     proteins: 3     neighbors: 704
+Whitewater Arroyo virus	-	strain:AV 9310135	2		10448 nt	4	-	vertebrates, human	05/19/2008	12/09/2008	
+          Whitewater Arroyo virus     (7132 nt)     NC_010703     proteins: 2     neighbors: 1
+          Whitewater Arroyo virus     (3316 nt)     NC_010700     proteins: 2     neighbors: 6
+Yellow fever virus	NC_002031	strain:17D vaccine strain	-		10862 nt	1	62	vertebrates, invertebrates, human	11/18/1986	12/08/2008	
+Yokose virus	NC_005039	strain:Oita 36	-		10857 nt	1	-	vertebrates, invertebrates, human	07/22/2003	08/11/2006	
+Zika virus	NC_012532	strain:MR 766	-		10794 nt	1	-	vertebrates, invertebrates, human	04/06/2009	04/06/2009	

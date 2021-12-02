@@ -1,0 +1,36 @@
+GCF_000848505.1_ViralProj14703_genomic.gff:NC_002549.1	RefSeq	five_prime_UTR	1	55	.	+	.	ID=id-NC_002549.1:1..55;Note=leader region;function=regulation or initiation of RNA replication;gbkey=5'UTR
+GCF_000848505.1_ViralProj14703_genomic.gff:NC_002549.1	RefSeq	three_prime_UTR	18283	18959	.	+	.	ID=id-NC_002549.1:18283..18959;Note=trailer region;function=regulation or initiation of RNA replication;gbkey=3'UTR
+GCF_000854085.1_ViralProj15006_genomic.gff:NC_004161.1	RefSeq	five_prime_UTR	1	55	.	+	.	ID=id-NC_004161.1:1..55;Note=leader region;function=regulation of initiation of RNA replication;gbkey=5'UTR
+GCF_000854085.1_ViralProj15006_genomic.gff:NC_004161.1	RefSeq	five_prime_UTR	18867	18891	.	+	.	ID=id-NC_004161.1:18867..18891;Note=trailer region;function=regulation of initiation of RNA replication;gbkey=5'UTR
+GCF_000854805.1_ViralProj15014_genomic.gff:NC_006430.1	RefSeq	sequence_feature	1	55	.	+	.	ID=id-NC_006430.1:1..55;Note=SV5 leader sequence;gbkey=misc_feature
+GCF_000854805.1_ViralProj15014_genomic.gff:NC_006430.1	RefSeq	sequence_feature	15216	15246	.	+	.	ID=id-NC_006430.1:15216..15246;Note=SV5 trailer sequence;gbkey=misc_feature
+GCF_000855585.1_ViralProj15012_genomic.gff:NC_006432.1	RefSeq	five_prime_UTR	1	55	.	+	.	ID=id-NC_006432.1:1..55;Note=leader region;function=regulation of initiation of RNA replication;gbkey=5'UTR
+GCF_000855585.1_ViralProj15012_genomic.gff:NC_006432.1	RefSeq	five_prime_UTR	18495	18875	.	+	.	ID=id-NC_006432.1:18495..18875;Note=trailer region;function=regulation of initiation of RNA replication;gbkey=5'UTR
+GCF_000857325.2_ViralProj15199_genomic.gff:NC_001608.3	RefSeq	sequence_feature	1	48	.	+	.	ID=id-NC_001608.3:1..48;Note=leader region;gbkey=misc_feature
+GCF_000857325.2_ViralProj15199_genomic.gff:NC_001608.3	RefSeq	sequence_feature	19036	19111	.	+	.	ID=id-NC_001608.3:19036..19111;Note=trailer;gbkey=misc_feature
+GCF_000863625.1_ViralProj15443_genomic.gff:NC_002728.1	RefSeq	sequence_feature	1	52	.	+	.	ID=id-NC_002728.1:1..52;Note=5' leader;gbkey=misc_feature
+GCF_000863625.1_ViralProj15443_genomic.gff:NC_002728.1	RefSeq	sequence_feature	18217	18246	.	+	.	ID=id-NC_002728.1:18217..18246;Note=3' trailer;gbkey=misc_feature
+GCF_000866025.1_ViralProj16205_genomic.gff:NC_007620.1	RefSeq	sequence_feature	1	55	.	+	.	ID=id1;Note=leader sequence;gbkey=misc_feature
+GCF_000866025.1_ViralProj16205_genomic.gff:NC_007620.1	RefSeq	sequence_feature	15486	15516	.	+	.	ID=id9;Note=trailer region;gbkey=misc_feature
+GCF_000868925.1_ViralProj16630_genomic.gff:NC_007803.1	RefSeq	sequence_feature	1	55	.	+	.	ID=id-NC_007803.1:1..55;Note=leader sequence;gbkey=misc_feature
+GCF_000868925.1_ViralProj16630_genomic.gff:NC_007803.1	RefSeq	sequence_feature	19185	19212	.	+	.	ID=id-NC_007803.1:19185..19212;Note=trailer sequence;gbkey=misc_feature
+GCF_000870765.1_ViralProj19757_genomic.gff:NC_009527.1	RefSeq	three_prime_UTR	1	58	.	+	.	ID=id-NC_009527.1:1..58;gbkey=3'UTR
+GCF_000870765.1_ViralProj19757_genomic.gff:NC_009527.1	RefSeq	five_prime_UTR	11897	11966	.	+	.	ID=id-NC_009527.1:11897..11966;gbkey=5'UTR
+GCF_000871625.2_ViralProj19759_genomic.gff:NC_009528.2	RefSeq	three_prime_UTR	1	58	.	+	.	ID=id-NC_009528.2:1..58;gbkey=3'UTR
+GCF_000871625.2_ViralProj19759_genomic.gff:NC_009528.2	RefSeq	five_prime_UTR	11861	11930	.	+	.	ID=id-NC_009528.2:11861..11930;gbkey=5'UTR
+GCF_000888475.1_ViralProj51257_genomic.gff:NC_014372.1	RefSeq	five_prime_UTR	1	55	.	+	.	ID=id-NC_014372.1:1..55;Note=putative leader region;function=regulation or initiation of RNA replication;gbkey=5'UTR
+GCF_000888475.1_ViralProj51257_genomic.gff:NC_014372.1	RefSeq	three_prime_UTR	18462	18935	.	+	.	ID=id-NC_014372.1:18462..18935;Note=trailer region;function=regulation or initiation of RNA replication;gbkey=3'UTR
+GCF_000889155.1_ViralProj51245_genomic.gff:NC_014373.1	RefSeq	five_prime_UTR	1	55	.	+	.	ID=id-NC_014373.1:1..55;Note=leader region;function=regulation or initiation of RNA replication;gbkey=5'UTR
+GCF_000889155.1_ViralProj51245_genomic.gff:NC_014373.1	RefSeq	three_prime_UTR	18466	18940	.	+	.	ID=id-NC_014373.1:18466..18940;Note=trailer region;function=regulation or initiation of RNA replication;gbkey=3'UTR
+GCF_000905355.1_ViralProj194140_genomic.gff:NC_020809.1	RefSeq	three_prime_UTR	1	58	.	+	.	ID=id-NC_020809.1:1..58;gbkey=3'UTR
+GCF_000905355.1_ViralProj194140_genomic.gff:NC_020809.1	RefSeq	five_prime_UTR	11911	11980	.	+	.	ID=id-NC_020809.1:11911..11980;gbkey=5'UTR
+GCF_000905375.1_ViralProj194144_genomic.gff:NC_020810.1	RefSeq	five_prime_UTR	1	58	.	+	.	ID=id-NC_020810.1:1..58;gbkey=5'UTR
+GCF_000905375.1_ViralProj194144_genomic.gff:NC_020810.1	RefSeq	three_prime_UTR	11907	11976	.	+	.	ID=id-NC_020810.1:11907..11976;gbkey=3'UTR
+GCF_000905975.1_ViralProj194143_genomic.gff:NC_020807.1	RefSeq	five_prime_UTR	1	58	.	+	.	ID=id-NC_020807.1:1..58;gbkey=5'UTR
+GCF_000905975.1_ViralProj194143_genomic.gff:NC_020807.1	RefSeq	three_prime_UTR	11947	12016	.	+	.	ID=id-NC_020807.1:11947..12016;gbkey=3'UTR
+GCF_000906815.1_ViralProj194137_genomic.gff:NC_020805.1	RefSeq	five_prime_UTR	1	65	.	+	.	ID=id-NC_020805.1:1..65;gbkey=5'UTR
+GCF_000906815.1_ViralProj194137_genomic.gff:NC_020805.1	RefSeq	three_prime_UTR	11042	11120	.	+	.	ID=id-NC_020805.1:11042..11120;gbkey=3'UTR
+GCF_000943645.1_ViralProj276005_genomic.gff:NC_024781.1	RefSeq	sequence_feature	1	48	.	+	.	ID=id-NC_024781.1:1..48;Note=leader region;gbkey=misc_feature
+GCF_000943645.1_ViralProj276005_genomic.gff:NC_024781.1	RefSeq	sequence_feature	19038	19114	.	+	.	ID=id-NC_024781.1:19038..19114;Note=trailer;gbkey=misc_feature
+GCF_002816435.1_ASM281643v1_genomic.gff:NC_038299.1	RefSeq	five_prime_UTR	1	30	.	+	.	ID=id-NC_038299.1:1..30;gbkey=5'UTR
+GCF_002816435.1_ASM281643v1_genomic.gff:NC_038299.1	RefSeq	three_prime_UTR	6493	6554	.	+	.	ID=id-NC_038299.1:6493..6554;gbkey=3'UTR
