@@ -85,7 +85,6 @@ python scan_utrs.py --utr_file DATA/Genomes/UTRs/Group_IV_UTR.txt \
 ```
 
 
-
 ## Reading output from .h5 files
 
 The .h5 output files can be opened in python using the pandas read_hdf command. For example:
@@ -103,3 +102,59 @@ You can save the same data to a tab-separated text file. For example:
 ```
 enrichment_results.to_csv('output_file_name.csv', sep='\t', index=False)
 ```
+
+## Setting up an environment for notebooks
+
+Create a new environment:
+
+```
+conda create --name VirusHostInteractionAtlas python=3.7
+```
+
+Activate the environment:
+
+```
+conda activate VirusHostInteractionAtlas
+```
+
+Clone SMEAGOL:
+```
+git clone https://github.com/gruber-sciencelab/SMEAGOL && cd SMEAGOL
+```
+
+Install SMEAGOL:
+```
+pip install -e .
+```
+
+Run SMEAGOL tests:
+```
+cd tests
+pytest
+cd ..
+```
+
+Install openpyxl so we can read the supplementary data directly from the Excel files:
+
+```
+pip install openpyxl
+```
+
+Add the installation to jupyter
+```
+python -m ipykernel install --user --name=VirusHostInteractionAtlas --display-name='Python 3.7 (VirusHostInteractionAtlas)'
+```
+
+Go to the 'VirusHostInteractionAtlas' directory
+```
+cd ..
+```
+
+Start the jupyter notebook
+
+```
+jupyter notebook &
+```
+
+Afterwards, make sure that you have chosen the correct kernel (Top Menu Bar: Kernel --> Change Kernel --> 'Python 3.7 (VirusHostInteractionAtlas)')
+
