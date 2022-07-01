@@ -112,7 +112,7 @@ python ${code_dir}/scan_fasta.py \
 --pwm_file ${code_dir}/DATA/PWMs/attract_rbpdb_encode_filtered_human_pwms.h5 \
 --out_home ${results_dir} \
 --threshold ${threshold} \
---sense - \
+--sense + \
 --rcomp both \
 --simN 1000 \
 --simK 2 \
